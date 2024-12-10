@@ -13,11 +13,25 @@ Explore advanced topics like web scraping, APIs, and data analysis.
 Practice consistency and apply Python to real-world scenarios.
 
 📅 Topics and Progress
+
 Day	Topic	Description
-01	Introduction	Overview of Python, installation, and setting up the environment.
-02	Variables, Built-in Functions	Explored variables, data types, and Python's built-in functions.
-03	Operators	Learned about arithmetic, logical, and comparison operators.
-04	Strings	Worked with string methods, formatting, and manipulation.
+
+01	Introduction:
+
+Overview of Python, installation, and setting up the environment.
+
+02	Variables:
+
+Built-in Functions	Explored variables, data types, and Python's built-in functions.
+
+03	Operators:
+
+Learned about arithmetic, logical, and comparison operators.
+
+04	Strings:
+
+Worked with string methods, formatting, and manipulation.
+
 05	Lists	Learned list operations, slicing, and iteration.
 06	Tuples	Explored tuples, immutability, and use cases.
 07	Sets	Learned about set operations like union, intersection, and difference.
