@@ -80,13 +80,21 @@ Day	Topic	Description
 
 
 30DaysOfPython/
+
 ├── Day01/
+
 │   └── introduction.py
+
 ├── Day02/
+
 │   └── variables_and_functions.py
+
 ├── Day03/
+
 │   └── operators.py
+
 ...
+
 └── README.md
 
 ���️ Tools and Resources
