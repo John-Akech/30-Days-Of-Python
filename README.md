@@ -14,50 +14,67 @@ Practice consistency and apply Python to real-world scenarios.
 
 📅 Topics and Progress
 
-Day	Topic	Description
 
-01	Introduction:
+01	Introduction: Overview of Python, installation, and setting up the environment.
 
-Overview of Python, installation, and setting up the environment.
+02	Variables: Built-in Functions	Explored variables, data types, and Python's built-in functions.
 
-02	Variables:
+03	Operators: Learned about arithmetic, logical, and comparison operators.
 
-Built-in Functions	Explored variables, data types, and Python's built-in functions.
+04	Strings: Worked with string methods, formatting, and manipulation.
 
-03	Operators:
+05	Lists:	Learned list operations, slicing, and iteration.
 
-Learned about arithmetic, logical, and comparison operators.
+06	Tuples: Explored tuples, immutability, and use cases.
 
-04	Strings:
+07	Sets:	Learned about set operations like union, intersection, and difference.
 
-Worked with string methods, formatting, and manipulation.
+08	Dictionaries:	Practiced with key-value pairs and nested dictionaries.
 
-05	Lists	Learned list operations, slicing, and iteration.
-06	Tuples	Explored tuples, immutability, and use cases.
-07	Sets	Learned about set operations like union, intersection, and difference.
-08	Dictionaries	Practiced with key-value pairs and nested dictionaries.
-09	Conditionals	Worked with if, elif, else, and logical conditions.
-10	Loops	Practiced for and while loops, and iterating through collections.
-11	Functions	Defined functions, used arguments, and explored scope and return values.
-12	Modules	Imported and created custom modules.
-13	List Comprehension	Simplified loops with list comprehension.
-14	Higher Order Functions	Learned about map(), filter(), reduce(), and lambda expressions.
-15	Python Type Errors	Explored common Python errors and debugging techniques.
-16	Python DateTime	Worked with the datetime module for date and time operations.
-17	Exception Handling	Learned how to handle errors using try, except, and finally.
-18	Regular Expressions	Practiced pattern matching with the re module.
+09	Conditionals:	Worked with if, elif, else, and logical conditions.
+
+10	Loops:	Practiced for and while loops, and iterating through collections.
+
+11	Functions:	Defined functions, used arguments, and explored scope and return values.
+
+12	Modules:	Imported and created custom modules.
+
+13	List Comprehension:	Simplified loops with list comprehension.
+
+14	Higher Order Functions:	Learned about map(), filter(), reduce(), and lambda expressions.
+
+15	Python Type Errors:	Explored common Python errors and debugging techniques.
+
+16	Python DateTime:	Worked with the datetime module for date and time operations.
+
+17	Exception Handling:	Learned how to handle errors using try, except, and finally.
+
+18	Regular Expressions:	Practiced pattern matching with the re module.
+
 19	File Handling	Read, write, and manipulate files.
-20	Python Package Manager	Explored pip for installing and managing Python packages.
-21	Classes and Objects	Started Object-Oriented Programming (OOP) in Python.
-22	Web Scraping	Learned web scraping techniques with BeautifulSoup and requests.
-23	Virtual Environment	Set up and used virtual environments for project isolation.
-24	Statistics	Explored statistical concepts using Python.
-25	Pandas	Worked with data manipulation and analysis using pandas.
-26	Python Web	Learned about web development frameworks like Flask or Django.
-27	Python with MongoDB	Connected Python to MongoDB for database operations.
-28	API	Explored how to consume APIs using Python.
-29	Building API	Built a simple API with Flask or Django REST Framework.
-30	Conclusions	Reflected on the learning journey and planned next steps.
+
+20	Python Package Manager:	Explored pip for installing and managing Python packages.
+
+21	Classes and Objects:	Started Object-Oriented Programming (OOP) in Python.
+
+22	Web Scraping:	Learned web scraping techniques with BeautifulSoup and requests.
+
+23	Virtual Environment:	Set up and used virtual environments for project isolation.
+
+24	Statistics:	Explored statistical concepts using Python.
+
+25	Pandas:	Worked with data manipulation and analysis using pandas.
+
+26	Python Web:	Learned about web development frameworks like Flask or Django.
+
+27	Python with MongoDB:	Connected Python to MongoDB for database operations.
+
+28	API:	Explored how to consume APIs using Python.
+
+29	Building API:	Built a simple API with Flask or Django REST Framework.
+
+30	Conclusions:	Reflected on the learning journey and planned next steps.
+
 
 ��� Folder Structure
 
