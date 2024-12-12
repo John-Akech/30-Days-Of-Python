@@ -131,9 +131,9 @@ Developing problem-solving skills using Python.
 
 ## Feedback and Contributions
 
-Feel free to open an issue or connect with me on GitHub for suggestions, feedback, or questions.
+Feel free to open an issue or contact me on GitHub for suggestions, feedback, or questions.
 
 
-Happy coding! ���
+## HAPPY CODING!
 
 
