@@ -1,8 +1,8 @@
-30 Days of Python ���
+## 30 Days of Python
 
 Welcome to my 30 Days of Python journey! This repository is my daily log of Python programming concepts, challenges, and projects. Each day, I explore a new topic to deepen my understanding of Python and its applications.
 
-��� Overview
+## Overview
 
 The 30 Days of Python challenge is designed to:
 
@@ -76,7 +76,7 @@ Practice consistency and apply Python to real-world scenarios.
 30	Conclusions:	Reflected on the learning journey and planned next steps.
 
 
-��� Folder Structure
+## Folder Structure
 
 
 30DaysOfPython/
@@ -97,7 +97,7 @@ Practice consistency and apply Python to real-world scenarios.
 
 └── README.md
 
-���️ Tools and Resources
+## Tools and Resources
 
 Language: Python 3.x
 
@@ -111,7 +111,7 @@ Official Python Documentation
 
 Online tutorials and practice platforms like HackerRank and LeetCode.
 
-��� Goals
+## Goals
 
 Consistently code every day for 30 days.
 
@@ -129,7 +129,7 @@ Leveraging Python's powerful libraries and built-in functions.
 
 Developing problem-solving skills using Python.
 
-��� Feedback and Contributions
+## Feedback and Contributions
 
 Feel free to open an issue or connect with me on GitHub for suggestions, feedback, or questions.
 
