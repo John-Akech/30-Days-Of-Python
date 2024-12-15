@@ -129,3 +129,104 @@
 # def do_something(f, x):
 #     return f(x)
 # print(do_something(square_number, 3))
+
+
+# import the module
+# import os
+# Creating a directory
+# os.mkdir('my_dir')
+# Changing the current directory
+# os.chdir('path')
+# Getting current working directory
+# os.getcwd()
+# Removing directory
+# os.rmdir()
+
+# import sys
+#print(sys.argv[0], argv[1],sys.argv[2])  # this line would print out: filename argument1 argument2
+#print('Welcome {} {} {} {} {}. Enjoy your {} challenge!'.format(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5], sys.argv[6]))
+
+# to exit sys
+# sys.exit()
+# To know the largest integer variable it takes
+# sys.maxsize
+# To know environment path
+# sys.path
+# To know the version of python you are using
+# sys.version
+
+# from statistics import *
+
+# ages = [20, 20, 4, 24, 25, 22, 26, 20, 23, 22, 26]
+
+# print(f"The mean age is {mean(ages):.2f}")
+# print(f"The median age is {median(ages)}")
+# print(f"The mode of ages is {mode(ages)}")
+# print(f"The variance of ages is {variance(ages):.2f}")
+# print(f"The standard deviation of ages is {stdev(ages):.2f}")
+
+#import math
+# print(f'The pi is: {math.pi:.2f}')
+# print(f'The square root of 4 is: {math.sqrt(4):.0f}')
+# print(f'The power of 3 is: {math.pow(2, 3):.0f}')
+# print(f'The floor division of 9.81 is: {math.floor(9.81):.0f}')
+# print(f'The ceil of 9.8 is: {math.ceil(9.81):.0f}')
+# print(f'The log10 of 100 is: {math.log10(100):.0f}')
+
+
+# Define two points in 2D space
+# point1 = (1, 2)
+# point2 = (4, 6)
+
+# Calculate the Euclidean distance between the two points
+# distance = dist(point1, point2)
+
+# print(f"The Euclidean distance between {point1} and {point2} is {distance:.0f}")
+
+# help(math)
+#dir(math)
+
+# import string
+# print(f'The ASCII LETTERS ARE: {string.ascii_letters}')
+# print(f'The digits are: {string.digits}')
+# print(f'The special charactiers called punctuations are: {string.punctuation}')
+
+# from random import random, randint
+# print(random)
+# print(randint(5, 20))
+
+# language = 'Python'
+# lst = list(language)
+# print(type(lst))
+# print(lst)
+
+# lst = [i for i in language]
+# print(type(lst))
+# print(lst)
+
+# numbers = [i for i in range(10)]
+# print(numbers)
+
+# squares = [i * i for i in range(11)]
+# print(squares)
+
+# numbers = [(i, i * i) for i in range(11)]
+# print(numbers)
+
+# x = lambda a, b: a + b
+# print(x(1,2))
+
+# square = lambda x: x ** 2
+# print(square(3))
+
+# cube = lambda x: x ** 3
+# print(cube(3))
+
+# def power(x):
+#     return lambda n:x ** n
+# cube = power(2)(3)
+# print(cube)
+
+# two_power_of_five = power(2)(5)
+# print(two_power_of_five)
+

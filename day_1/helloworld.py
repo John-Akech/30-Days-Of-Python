@@ -1,76 +1,82 @@
-print(3+4)
-print(4-3)
-print(3*4)
-print(4%3)
-print(4/3)
-print(3**4)
-print(4//3)
+# Performing basic arithmetic operations
+print(3 + 4)  # Addition of 3 and 4
+print(4 - 3)  # Subtraction: 4 minus 3
+print(3 * 4)  # Multiplication: 3 multiplied by 4
+print(4 % 3)  # Modulus: remainder when 4 is divided by 3
+print(4 / 3)  # Division: 4 divided by 3 (returns a float)
+print(3 ** 4)  # Exponentiation: 3 raised to the power of 4
+print(4 // 3)  # Floor division: 4 divided by 3 and rounded down to the nearest integer
 
-print('John')
-print('Akech')
-print('South Sudan')
-print('I am enjoying 30 days of python')
+# Printing string values (name, country, and statement)
+print('John')  # Print first name
+print('Akech')  # Print last name
+print('South Sudan')  # Print country name
+print('I am enjoying 30 days of python')  # Print statement
 
-print(type(10))
-print(type(9.8))
-print(type(3.14))
-print(type(4 - 4j))
-print(type(['AROMA', 'Python', 'South Sudan']))
-print(type('John'))
-print(type('Akech'))
-print(type('South Sudan'))
+# Checking the data types of different values
+print(type(10))  # Type of integer 10
+print(type(9.8))  # Type of float 9.8
+print(type(3.14))  # Type of float 3.14
+print(type(4 - 4j))  # Type of complex number 4 - 4j
+print(type(['AROMA', 'Python', 'South Sudan']))  # Type of list
+print(type('John'))  # Type of string 'John'
+print(type('Akech'))  # Type of string 'Akech'
+print(type('South Sudan'))  # Type of string 'South Sudan'
 
-# Write an example for different Python data types such as Number(Integer, Float, Complex), String, Boolean, List, Tuple, Set and Dictionary.
+# Example for different Python data types
 
 ## Numbers:
-# Integer
-print(type(-3))   # Negative
-print(type(0))      # Zero
-print(type(3))      # Positive
 
-# Float
-print(3.14)
+# Integer: Showing different integer types (positive, negative, zero)
+print(type(-3))  # Negative integer
+print(type(0))   # Zero integer
+print(type(3))   # Positive integer
 
-# Complex
-print(type(3+4j))
+# Float: Floating-point number
+print(3.14)  # Example of a float
 
-## String
-print(type('John'))
+# Complex: Complex number with real and imaginary parts
+print(type(3 + 4j))  # Type of complex number
 
-# Boolean
-is_python_fun1 = True
-is_python_fun2 = False
-print(type(is_python_fun1))
-print(type(is_python_fun2))
+## String: Showing string type
+print(type('John'))  # Type of string 'John'
 
-# List
-lst = [1,2,3,'Aroma']
-print(type(lst))
+# Boolean: Boolean values (True or False)
+is_python_fun1 = True  # True boolean value
+is_python_fun2 = False  # False boolean value
+print(type(is_python_fun1))  # Type of is_python_fun1 (True)
+print(type(is_python_fun2))  # Type of is_python_fun2 (False)
 
-# Tuple
-tpl = (1,2,3,4,5)
-print(type(tpl))
+# List: A collection of items that can be changed (mutable)
+lst = [1, 2, 3, 'Aroma']  # List with integers and a string
+print(type(lst))  # Type of lst (list)
 
-# Set
-st1 = {1,2,3,4}
-st2 = {2,3,4,5}
+# Tuple: An ordered collection of items that cannot be changed (immutable)
+tpl = (1, 2, 3, 4, 5)  # Tuple of integers
+print(type(tpl))  # Type of tpl (tuple)
 
-st3 = st1.union(st2)
-st4 = st1.intersection(st2)
-print(type(st4))
+# Set: A collection of unique items
+st1 = {1, 2, 3, 4}  # Set of integers
+st2 = {2, 3, 4, 5}  # Another set of integers
 
-# Dictionary
-dict = {'name': "Aroma", "Age": "22"}
-print(type(dict))
+# Set operations: union and intersection
+st3 = st1.union(st2)  # Union of st1 and st2 (all unique elements)
+st4 = st1.intersection(st2)  # Intersection of st1 and st2 (common elements)
+print(type(st4))  # Type of st4 (set)
 
-# Euclidian distance
-import math
-x1 = 2
-x2 = 10
-y1 = 3
-y2 = 8
+# Dictionary: A collection of key-value pairs
+dict = {'name': "Aroma", "Age": "22"}  # Dictionary with keys 'name' and 'Age'
+print(type(dict))  # Type of dict (dictionary)
 
-d = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+# Euclidean distance calculation between two points (x1, y1) and (x2, y2)
+import math  # Importing the math module for mathematical operations
+x1 = 2  # x-coordinate of the first point
+x2 = 10  # x-coordinate of the second point
+y1 = 3  # y-coordinate of the first point
+y2 = 8  # y-coordinate of the second point
 
-print(d)
-print(type(d))
+# Calculating the Euclidean distance using the formula
+d = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)  # sqrt((x2 - x1)^2 + (y2 - y1)^2)
+
+print(d)  # Printing the Euclidean distance
+print(type(d))  # Printing the type of d (should be a float)
